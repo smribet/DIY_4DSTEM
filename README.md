@@ -1,5 +1,5 @@
 # DIY_4DSTEM
-DIY: Using Python to Process 4D STEM Data, code for NUANCE/Gatan virtual workshop on December 9, 2020.
+DIY: Using Python to Process 4D STEM Data
 
 Data available here: https://zenodo.org/record/4307783#.X9DZQxNKjlx
 
